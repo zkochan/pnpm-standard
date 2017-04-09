@@ -1,0 +1,22 @@
+{
+  "name": "pnpm-standard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/pnpm-standard.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/pnpm-standard/issues"
+  },
+  "homepage": "https://github.com/zkochan/pnpm-standard#readme",
+  "devDependencies": {
+    "standard": "^10.0.1"
+  }
+}
